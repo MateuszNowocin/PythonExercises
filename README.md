@@ -1,5 +1,4 @@
 A repository in which I keep exercises I did for practice in the Python language. 
-
 There are mostly scripts implementing solutions for specific problems, which I try to describe individually in each commit.
 
 **1. Generator:**
