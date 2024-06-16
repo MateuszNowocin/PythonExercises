@@ -5,4 +5,4 @@ There are mostly scripts implementing solutions for specific problems, which I t
   The script takes parameters in the command line using argparser. Then it displays a list of files in a given directory, depending on what file extension was provided. Default directory is the current working directory.
 
 **2. Buffon's needle problem:**
-  Buffon's needle problem written in Python. This implementation is for L < t (for simplifying the logic).
+  Buffon's needle problem written in Python. This implementation is for L < t (for simplifying the logic). Based on [this article](https://simonensemble.github.io/posts/2018-04-11-buffon/).
