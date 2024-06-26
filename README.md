@@ -6,3 +6,6 @@ There are mostly scripts implementing solutions for specific problems, which I t
 
 **2. Buffon's needle problem:**
   Buffon's needle problem written in Python. This implementation is for L < t (for simplifying the logic). Based on [this article](https://simonensemble.github.io/posts/2018-04-11-buffon/).
+
+**3. Tablica, indeksy:**
+  The script is used to manipulate a three-dimensional array (a) by selecting specific elements based on indices provided by the user.
